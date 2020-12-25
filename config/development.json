@@ -1,0 +1,14 @@
+{
+	"frontend": {
+		"api": {
+			"url": "http://localhost:3001/api/v1/"
+		},
+		"mode": "development",
+		"aa": {
+			"address": "BOX5GEOHIU4WF7KN43CM2JCUO5OYRZOJ"
+		},
+		"hub": {
+			"ws": "ws://localhost:6611"
+		}
+	}
+}

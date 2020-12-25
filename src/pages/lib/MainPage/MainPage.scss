@@ -1,0 +1,9 @@
+@import 'src/styles/mixins';
+@import 'src/styles/variables';
+
+.root-main-page {
+	@include flex(column, flex-start, center);
+	position: relative;
+	margin: 0 auto;
+	width: $content-max-width;
+}
